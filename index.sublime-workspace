@@ -1,0 +1,1735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"status"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"row",
+				"rowData"
+			],
+			[
+				"ro",
+				"rowids"
+			],
+			[
+				"sen",
+				"sendData"
+			],
+			[
+				"arch",
+				"archived"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"myA",
+				"myAllContest"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"feedt",
+				"feedtype"
+			],
+			[
+				"feed",
+				"feedsubmit"
+			],
+			[
+				"act",
+				"actiontype"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"task",
+				"task_name"
+			],
+			[
+				"els",
+				"elseif"
+			],
+			[
+				"sta",
+				"starpaymentstatus"
+			],
+			[
+				"starpay",
+				"starpaymentstatus"
+			],
+			[
+				"star",
+				"starpaymentstatus"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"created",
+				"created_at"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"mo",
+				"moodList"
+			],
+			[
+				"domain",
+				"domain_name"
+			],
+			[
+				"fi",
+				"finalURL"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"e",
+				"exists"
+			],
+			[
+				"me",
+				"messages"
+			],
+			[
+				"curr",
+				"currenturl"
+			],
+			[
+				"sch",
+				"schemaCreated"
+			],
+			[
+				"tas",
+				"taskId"
+			],
+			[
+				"cur",
+				"currenturl"
+			],
+			[
+				"suc",
+				"successRecord"
+			],
+			[
+				"email",
+				"emailData"
+			],
+			[
+				"customer",
+				"customerlist"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"pa",
+				"pageNumber"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"mod",
+				"modact"
+			],
+			[
+				"dis",
+				"displayNone"
+			],
+			[
+				"disp",
+				"displayNone"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"lender",
+				"lender_role"
+			],
+			[
+				"new",
+				"new-pw"
+			],
+			[
+				"co",
+				"confirm-pw"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"val",
+				"validator"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"clie",
+				"client_branch_id"
+			],
+			[
+				"com",
+				"company_id"
+			],
+			[
+				"acl",
+				"acl_role_id"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"sing",
+				"singbull_module_action"
+			],
+			[
+				"request",
+				"request-"
+			],
+			[
+				"use",
+				"usersData"
+			],
+			[
+				"modu",
+				"module_action_id"
+			],
+			[
+				"data",
+				"data_merge"
+			],
+			[
+				"array_",
+				"array_merge"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"module",
+				"module_action_id"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"this",
+				"this-"
+			],
+			[
+				"client",
+				"client_branch_id"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"role",
+				"role_id"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"admi",
+				"AdminController"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"loac",
+				"localStorage"
+			],
+			[
+				"idl",
+				"idleMax"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"api",
+				"api_token"
+			],
+			[
+				"route",
+				"Route"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"mas",
+				"master_product"
+			],
+			[
+				"coutry",
+				"country_id"
+			],
+			[
+				"cl",
+				"client_product"
+			],
+			[
+				"coun",
+				"country_id"
+			],
+			[
+				"product",
+				"Product"
+			],
+			[
+				"C",
+				"CompanyController"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"key",
+				"key2"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"cre",
+				"created_user_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"dele",
+				"delete_data"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"assi",
+				"assign"
+			],
+			[
+				"assign",
+				"assignNav"
+			],
+			[
+				"ass",
+				"assign-nav"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"bank",
+				"bank_id"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"bra",
+				"branchlist"
+			],
+			[
+				"ban",
+				"bank_detail_id"
+			],
+			[
+				"bran",
+				"branch_name"
+			],
+			[
+				"company",
+				"company_name"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"filter",
+				"filter_country"
+			],
+			[
+				"master",
+				"master_clients"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"action",
+				"action_id"
+			],
+			[
+				"valu",
+				"value2"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"Modu",
+				"ModuleAction"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"HTT",
+				"HTTP_UNAUTHORIZED"
+			],
+			[
+				"HTTP",
+				"HTTP_OK"
+			],
+			[
+				"se",
+				"select\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 659,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/LoginController.php",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/api.php",
+			"settings":
+			{
+				"buffer_size": 845,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/userlist.blade.php",
+			"settings":
+			{
+				"buffer_size": 1653,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 3677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/loginpage.blade.php",
+			"settings":
+			{
+				"buffer_size": 1932,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/useradd.blade.php",
+			"settings":
+			{
+				"buffer_size": 2211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "useradd.blade.php"
+			}
+		},
+		{
+			"file": "resources/views/useredit.blade.php",
+			"settings":
+			{
+				"buffer_size": 2280,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "useredit.blade.php"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 802,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "CREATE TABLE `laraveltask`.`user` (\n  `id` INT(11) NOT NULL AUTO_INCREMENT,\n  `name` VARCHAR(50) NULL,\n  `email` VARCHAR(50) NULL,\n  `password` VARCHAR(45) NULL,\n  PRIMARY KEY (`id`));\n\n  INSERT INTO `laraveltask`.`user` (`name`, `email`, `password`) VALUES ('Testname', 'testname@test.com', '123456');\n  ALTER TABLE `laraveltask`.`user` \nADD COLUMN `created_at` TIMESTAMP NULL AFTER `password`,\nADD COLUMN `Updated_at` TIMESTAMP NULL AFTER `created_at`;\n\n\n$.ajax({\n          url: \"/api/v1/admin/role-list\",\n          type: 'GET',\n          headers: {\"Authorization\": 'Bearer '+localStorage.getItem('app-token')},\n          success: function(response) {\n            //console.log(response.data.length);\n            if(response.data.length > 0){\n                //console.log(response.data);\n                $.each(response.data, function (key, val) {\n                    var counter = key+1;\n                    tableContent += '<tr><th scope=\"row\">'+counter+'</th><td>'+val.title+'</td><td>'+val.description+'</td><td><a href=\"/admin/edit-role/'+val.id+'\" role=\"button\" title=\"Edit\"><i class=\"fa fa-pencil\" aria-hidden=\"true\"></i></a></td></tr>';\n                });\n            }else{\n                tableContent += '<tr><td colspan=\"7\">No Role Found</td></tr>';\n            }\n            $(\"#roleList\").html(tableContent);\n          },\n        });\n",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"line_ending": "Unix",
+				"name": "CREATE TABLE `laraveltask`.`user` ("
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"packag",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"sublime.log_input(True)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/laraveltask/laraveltask",
+		"/var/www/laraveltask/laraveltask/app",
+		"/var/www/laraveltask/laraveltask/app/Http",
+		"/var/www/laraveltask/laraveltask/app/Http/Controllers",
+		"/var/www/laraveltask/laraveltask/resources",
+		"/var/www/laraveltask/laraveltask/resources/views",
+		"/var/www/laraveltask/laraveltask/routes"
+	],
+	"file_history":
+	[
+		"/var/www/laraveltask/laraveltask/resources/views/layout/task.blade.php",
+		"/var/www/laraveltask/laraveltask/resources/views/loginpage.blade.php",
+		"/var/www/laraveltask/laraveltask/.env",
+		"/var/www/laraveltask/laraveltask/config/database.php",
+		"/var/www/laraveltask/laraveltask/app/Http/Middleware/cors.php",
+		"/var/www/laraveltask/laraveltask/app/Http/Kernel.php",
+		"/var/www/laraveltask/laraveltask/resources/views/userlist.blade.php",
+		"/var/www/laraveltask/laraveltask/app/User.php",
+		"/var/www/istriveold2/resources/views/Frontend/notification/listview.blade.php",
+		"/var/www/istrive/.env",
+		"/var/www/istrive/public/customjs/taskScripts.js",
+		"/var/www/istrive/public/customjs/taskScripts.js.mine",
+		"/var/www/stage_istrives/.env.mine",
+		"/home/sarabjeet/Documents/conflicts/.env",
+		"/home/sarabjeet/Documents/conflicts/NotificationController.php.mine",
+		"/home/sarabjeet/Documents/conflicts/.env.mine",
+		"/var/www/istrive/DB_backup/for_live.sql",
+		"/var/www/istrive/public/customjs/taskProject.js",
+		"/var/www/istrive/app/TaskProjectModel.php",
+		"/var/www/istrive/resources/views/Frontend/task/result.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/project/listview.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/project/addform.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/project/editform.blade.php",
+		"/var/www/istrive/app/Http/Controllers/MasterprojectController.php",
+		"/var/www/istrive/resources/views/Masterdata/department/listview.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/department/addform.blade.php",
+		"/var/www/istrive/app/Http/Controllers/MasterDepartmentController.php",
+		"/var/www/istrive/resources/views/Masterdata/department/editform.blade.php",
+		"/var/www/istrive/app/Http/Controllers/FrontTaskController.php",
+		"/var/www/istrive/resources/views/Frontend/task/create.blade.php",
+		"/var/www/istrive/app/Http/Controllers/Auth/LoginController.php",
+		"/var/www/istrive/resources/views/Frontend/task/project/result.blade.php",
+		"/var/www/istrive/app/Http/Controllers/TaskProjectController.php",
+		"/var/www/istrive/app/ApprovalSettings.php",
+		"/var/www/istrive/resources/views/Frontend/feedback/create.blade.php",
+		"/var/www/istrive/resources/views/Frontend/feedback/result.blade.php",
+		"/var/www/istrive/app/Contest.php",
+		"/var/www/istrive/app/Feedback.php",
+		"/var/www/istrive/app/ContestApproval.php",
+		"/var/www/istrive/app/FeedbackApproval.php",
+		"/var/www/istrive/resources/views/Frontend/contest/addform.blade.php",
+		"/var/www/istrive/public/customjs/ajaxhttp.js",
+		"/var/www/istrive/resources/views/Frontend/feedback/listview.blade.php",
+		"/var/www/istrive/resources/views/Frontend/contest/listview.blade.php",
+		"/var/www/istrive/app/Member.php",
+		"/var/www/istrive/app/Http/Controllers/FrontContestController.php",
+		"/var/www/istrive/app/MaserStaticList.php",
+		"/var/www/istrive/app/Helpers/Helper.php",
+		"/var/www/istrive/resources/views/errors/500.blade.php",
+		"/var/www/istrive/app/Http/Controllers/FrontFeedbackController.php",
+		"/var/www/istrive/app/AccessModuleByUser.php",
+		"/var/www/istrive/resources/views/layouts/theme1.blade.php",
+		"/var/www/istrive/app/Http/Controllers/NotificationController.php",
+		"/var/www/istrive/resources/views/Frontend/notification/listview.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/userdepartment/listview.blade.php",
+		"/var/www/istrive/app/Http/Controllers/Apis/apiMenuController.php",
+		"/var/www/istrive/app/Http/Controllers/UserDepartmentController.php",
+		"/var/www/istrive/app/Http/Controllers/MasterCompanyController.php",
+		"/var/www/istrive/app/UserHasDepartment.php",
+		"/var/www/istrive/app/Http/ViewComposers/UserAccessPermissions.php",
+		"/var/www/istrive/app/UserPermissionsData.php",
+		"/var/www/istrive/app/UserProject.php",
+		"/var/www/istrive/app/UserProfile.php",
+		"/var/www/istrive/resources/views/layout.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/socialsetting/addform.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/socialsetting/listview.blade.php",
+		"/var/www/istrive/app/Http/Controllers/SocialSettingController.php",
+		"/var/www/istrive/app/Helpers/DBhelper.php",
+		"/var/www/istrive/app/Http/Controllers/Tipscontroller.php",
+		"/var/www/istrive/app/Http/Controllers/TaskController.php",
+		"/var/www/istrive/resources/views/Masterdata/rewardsetting/addform.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/staticlist/addformc.blade.php",
+		"/var/www/istrive/resources/views/Frontend/task/project/addproject.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/projectsfeedsetting/addform.blade.php",
+		"/home/sarabjeet/Documents/db9julyistrive/for_live.sql.mine",
+		"/var/www/istrive/app/Http/Controllers/NotificationsettingsController.php",
+		"/var/www/istrive/resources/views/Masterdata/assignregion/addform.blade.php",
+		"/var/www/istrive/app/Http/Controllers/MasterAssignRegionController.php",
+		"/var/www/istrive/app/Http/Controllers/MasterModuleGroupController.php",
+		"/var/www/istrive/app/Http/Controllers/Rolemodelcontroller.php",
+		"/var/www/istrive/resources/views/Masterdata/rolemodel/listview.blade.php",
+		"/var/www/istrive/app/Http/Controllers/KpiRoleModelController.php",
+		"/var/www/istrive/app/Http/Controllers/MasterRoleController.php",
+		"/var/www/istrive/resources/views/Masterdata/roles/addform.blade.php",
+		"/var/www/istrive/app/Http/Controllers/MemberController.php",
+		"/var/www/istrive/resources/views/Masterdata/member/addform.blade.php",
+		"/var/www/istrive/app/Http/Controllers/ProjectsFeedController.php",
+		"/var/www/istrive/app/Http/Controllers/RewardSettingController.php",
+		"/var/www/istrive/app/Http/Controllers/MasterStaticListController.php",
+		"/var/www/istrive/app/TaskProjectSubModel.php",
+		"/var/www/istrive/app/LogActivity.php",
+		"/var/www/istrive/resources/views/Frontend/tips/detail.blade.php",
+		"/var/www/istrive/resources/views/Frontend/tips/ajaxdetail.blade.php",
+		"/var/www/istrive/app/TipsApproval.php",
+		"/var/www/istrive/resources/views/Frontend/tips/listview.blade.php",
+		"/var/www/istrive/resources/views/Frontend/tips/addform.blade.php",
+		"/var/www/istrive/resources/views/Frontend/tips/published.blade.php",
+		"/var/www/istrive/app/Http/Controllers/HomeController.php",
+		"/var/www/istrive/resources/views/dashboard.blade.php",
+		"/var/www/istrive/app/UserContinuousAction.php",
+		"/var/www/istrive/app/ValuableTips.php",
+		"/var/www/istrive/app/UserDirectReporting.php",
+		"/var/www/istrive/app/Http/Controllers/Apis/apiTipsController.php",
+		"/var/www/istrive/resources/views/Masterdata/helper/starrating.blade.php",
+		"/var/www/istrive/resources/views/home.blade.php",
+		"/var/www/istrive/public/customjs/dashboard.js",
+		"/var/www/istrive/public/dist/js/pages/dashboard.js",
+		"/var/www/istrive/public/dist/js/hrone.js",
+		"/var/www/istrive/app/TurnOffSetting.php",
+		"/var/www/istrive/vendor/nesbot/carbon/src/Carbon/Traits/Date.php",
+		"/var/www/istrive/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php",
+		"/var/www/istrive/public/bower_components/Flot/examples/axes-time-zones/date.js",
+		"/var/www/istrive/public/bower_components/bootstrap-datepicker/docs/index.rst",
+		"/var/www/istrive/resources/views/calendar/calendar.blade.php",
+		"/var/www/istrive/public/bower_components/bootstrap-datepicker/build/build_standalone.less",
+		"/var/www/istrive/resources/views/Masterdata/loginlogout/listview.blade.php",
+		"/var/www/istrive/public/customjs/geoLocation.js",
+		"/var/www/istrive/app/UserAccessRole.php",
+		"/var/www/istrive/app/Http/Controllers/RoleAssignmentcontroller.php",
+		"/var/www/istrive/app/TaskModel.php",
+		"/var/www/istrive/resources/views/error.blade.php",
+		"/var/www/istrive/resources/views/welcome.blade.php",
+		"/var/www/istrive/resources/views/systemupdate.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/staticlist/listview.blade.php",
+		"/var/www/istrive/resources/views/Masterdata/staticlist/editformp.blade.php",
+		"/var/www/istriveold2/routes/web.php",
+		"/var/www/istrive/storage/logs/laravel.log",
+		"/var/www/istrive/public/customjs/userprofile.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/LoginController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1435,
+								1435
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 251.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/userlist.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1821,
+								1821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 827.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/loginpage.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1803,
+								1803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 365.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/useradd.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"auto_name": "useradd.blade.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/useredit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "useredit.blade.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 277.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE `laraveltask`.`user` (",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"k",
+				"app/Http/Kernel.php"
+			],
+			[
+				"cors",
+				"app/Http/Middleware/cors.php"
+			],
+			[
+				"kerne",
+				"app/Http/Kernel.php"
+			],
+			[
+				"live",
+				"DB_backup/for_live.sql"
+			],
+			[
+				".en",
+				".envmine31"
+			],
+			[
+				"task",
+				"public/customjs/taskScripts.js"
+			],
+			[
+				"TaskProjectModel",
+				"app/TaskProjectModel.php"
+			],
+			[
+				"TaskProjectController",
+				"app/Http/Controllers/TaskProjectController.php"
+			],
+			[
+				"",
+				"routes/web.php"
+			],
+			[
+				"NotificationController",
+				"app/Http/Controllers/NotificationController.php"
+			],
+			[
+				"TaskController",
+				"app/Http/Controllers/TaskController.php"
+			],
+			[
+				"FrontTaskController",
+				"app/Http/Controllers/FrontTaskController.php"
+			],
+			[
+				"MasterDepartmentController",
+				"app/Http/Controllers/MasterDepartmentController.php"
+			],
+			[
+				"log",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"MasterprojectController",
+				"app/Http/Controllers/MasterprojectController.php"
+			],
+			[
+				"FrontFeedbackController",
+				"app/Http/Controllers/FrontFeedbackController.php"
+			],
+			[
+				"live.",
+				"DB_backup/for_live.sql"
+			],
+			[
+				"UserHasDepartment",
+				"app/UserHasDepartment.php"
+			],
+			[
+				"UserDepartmentController",
+				"app/Http/Controllers/UserDepartmentController.php"
+			],
+			[
+				"UserProject",
+				"app/UserProject.php"
+			],
+			[
+				"UserProfile",
+				"app/UserProfile.php"
+			],
+			[
+				"theme",
+				"resources/views/layouts/theme1.blade.php"
+			],
+			[
+				"theme1",
+				"resources/views/layouts/theme1.blade.php"
+			],
+			[
+				"SocialSettingController",
+				"app/Http/Controllers/SocialSettingController.php"
+			],
+			[
+				"MasterCompanyController",
+				"app/Http/Controllers/MasterCompanyController.php"
+			],
+			[
+				"NotificationsettingsController",
+				"app/Http/Controllers/NotificationsettingsController.php"
+			],
+			[
+				"MasterAssignRegionController",
+				"app/Http/Controllers/MasterAssignRegionController.php"
+			],
+			[
+				"MasterModuleGroupController",
+				"app/Http/Controllers/MasterModuleGroupController.php"
+			],
+			[
+				"Rolemodelcontroller",
+				"app/Http/Controllers/Rolemodelcontroller.php"
+			],
+			[
+				"MasterRoleController",
+				"app/Http/Controllers/MasterRoleController.php"
+			],
+			[
+				"MemberController",
+				"app/Http/Controllers/MemberController.php"
+			],
+			[
+				"ProjectsFeedController",
+				"app/Http/Controllers/ProjectsFeedController.php"
+			],
+			[
+				"RewardSettingController",
+				"app/Http/Controllers/RewardSettingController.php"
+			],
+			[
+				"MasterStaticListController",
+				"app/Http/Controllers/MasterStaticListController.php"
+			],
+			[
+				"taskProject",
+				"public/customjs/taskProject.js"
+			],
+			[
+				"taskscript",
+				"public/customjs/taskScripts.js"
+			],
+			[
+				"taskcontr",
+				"app/Http/Controllers/TaskController.php"
+			],
+			[
+				"das",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"HomeController",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"FrontC",
+				"app/Http/Controllers/FrontContestController.php"
+			],
+			[
+				"ApprovalSettings",
+				"app/ApprovalSettings.php"
+			],
+			[
+				"logincontr",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"TipsApproval",
+				"app/TipsApproval.php"
+			],
+			[
+				"ValuableTips",
+				"app/ValuableTips.php"
+			],
+			[
+				"Tipscontroller",
+				"app/Http/Controllers/Tipscontroller.php"
+			],
+			[
+				".sql",
+				"DB_backup/for_live.sql"
+			],
+			[
+				"notif",
+				"app/Http/Controllers/NotificationController.php"
+			],
+			[
+				"geoLo",
+				"public/customjs/geoLocation.js"
+			],
+			[
+				"lara",
+				"storage/logs/laravel.log"
+			],
+			[
+				"dashboard.js",
+				"public/customjs/dashboard.js"
+			],
+			[
+				"dashboard.j",
+				"public/customjs/dashboard.js"
+			],
+			[
+				"taskcon",
+				"app/Http/Controllers/TaskController.php"
+			],
+			[
+				"client",
+				"app/Http/Controllers/ClientController.php"
+			],
+			[
+				"notification",
+				"resources/views/layouts/notification.blade.php"
+			],
+			[
+				"dash",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"homeco",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"taskScrip",
+				"public/customjs/taskScripts.js"
+			],
+			[
+				"taskScr",
+				"public/customjs/taskScripts.js"
+			],
+			[
+				"FrontMoodController",
+				"app/Http/Controllers/FrontMoodController.php"
+			],
+			[
+				"real",
+				"resources/views/MailTemplates/realregistration.blade.php"
+			],
+			[
+				"clientotp",
+				"resources/views/MailTemplates/clientotp.blade.php"
+			],
+			[
+				"signup",
+				"resources/views/MailTemplates/signupbulkuser.blade.php"
+			],
+			[
+				"tria",
+				"resources/views/MailTemplates/trialregistration.blade.php"
+			],
+			[
+				"helper.php",
+				"app/Helpers/Helper.php"
+			],
+			[
+				"trial",
+				"resources/views/MailTemplates/trialregistration.blade.php"
+			],
+			[
+				"MasterMoodController",
+				"app/Http/Controllers/MasterMoodController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"FrontMytoolsController",
+				"app/Http/Controllers/FrontMytoolsController.php"
+			],
+			[
+				"Task",
+				"app/TaskModel.php"
+			],
+			[
+				"taskscr",
+				"public/customjs/taskScripts.js"
+			],
+			[
+				"TaskModel",
+				"app/TaskModel.php"
+			],
+			[
+				"taskco",
+				"app/Http/Controllers/TaskController.php"
+			],
+			[
+				"ClientController",
+				"app/Http/Controllers/ClientController.php"
+			],
+			[
+				"taskScripts",
+				"public/customjs/taskScripts.js"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"member",
+				"app/Http/Controllers/MemberController.php"
+			],
+			[
+				"Mastertempuser",
+				"app/Mastertempuser.php"
+			],
+			[
+				"signupbulkuser",
+				"resources/views/MailTemplates/signupbulkuser.blade.php"
+			],
+			[
+				"FrontAwardsController",
+				"app/Http/Controllers/FrontAwardsController.php"
+			],
+			[
+				"MasterModule",
+				"app/MasterModule.php"
+			],
+			[
+				"ModuleGroup",
+				"app/ModuleGroup.php"
+			],
+			[
+				"layout",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"api",
+				"routes/api.php"
+			],
+			[
+				"logi",
+				"resources/views/admin/login.blade.php"
+			],
+			[
+				"login",
+				"resources/views/admin/login.blade.php"
+			],
+			[
+				"lar",
+				"storage/logs/laravel.log"
+			],
+			[
+				"style",
+				"public/js/style.js"
+			],
+			[
+				"app.b",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"user",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"aclse",
+				"app/Http/Controllers/Services/AclServices.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"app.",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"cmslist",
+				"resources/views/cmslisthtml.blade.php"
+			],
+			[
+				"cmscon",
+				"app/Http/Controllers/CmsController.php"
+			],
+			[
+				"CustomerLead",
+				"app/Http/Controllers/CustomerLeadsController.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"admin",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				".js",
+				"public/js/app.js"
+			],
+			[
+				"commo",
+				"app/Http/Controllers/CommonController.php"
+			],
+			[
+				"aclser",
+				"app/Http/Controllers/Services/AclServices.php"
+			],
+			[
+				"acl",
+				"app/Http/Controllers/Services/AclServices.php"
+			],
+			[
+				"sty",
+				"public/js/style.js"
+			],
+			[
+				"add",
+				"resources/views/admin/modules/add_modules.blade.php"
+			],
+			[
+				"dashbo",
+				"resources/views/customer/dashboard.blade.php"
+			],
+			[
+				"compa",
+				"app/Http/Controllers/CompanyController.php"
+			],
+			[
+				"admi",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"fron",
+				"resources/views/layouts/frontendheader.blade.php"
+			],
+			[
+				"ap",
+				"routes/api.php"
+			],
+			[
+				"app.blad",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				".",
+				".env"
+			],
+			[
+				"comm",
+				"app/Http/Controllers/CommonController.php"
+			],
+			[
+				"add_",
+				"resources/views/admin/modules/add_module_actions.blade.php"
+			],
+			[
+				"ker",
+				"app/Http/Kernel.php"
+			],
+			[
+				"mod",
+				"app/Http/Controllers/ModuleController.php"
+			],
+			[
+				"lo",
+				"resources/views/admin/login.blade.php"
+			],
+			[
+				"modul",
+				"app/Http/Controllers/ModuleController.php"
+			],
+			[
+				"app.blade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"pro",
+				"app/Http/Controllers/ProductController.php"
+			],
+			[
+				"usercont",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"role",
+				"resources/views/role-listing.blade.php"
+			],
+			[
+				"ro",
+				"resources/views/role-listing.blade.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"LoginController",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"jwt",
+				"config/jwt.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 686.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
